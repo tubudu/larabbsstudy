@@ -25,7 +25,7 @@ class EnsureEmailIsVerified
 
             //根据客户端返回对应的内容
             return $request->expectsJson()
-                ?abort(403,'你的邮箱地址没有验证！')
+                ?abort(403,'Your email address is not verified.')
                 :redirect()->route('verification.notice');
         }
 
