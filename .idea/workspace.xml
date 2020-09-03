@@ -134,6 +134,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -141,6 +142,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Codes\larabbs\app\Models" />
       <recent name="E:\Codes\larabbs\resources\views\shared" />
     </key>
   </component>
@@ -158,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599112134849</updated>
-      <workItem from="1599112135891" duration="4425000" />
+      <workItem from="1599112135891" duration="6106000" />
     </task>
     <servers />
   </component>
@@ -166,9 +168,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599117701555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599117701555" />
     <state x="776" y="442" key="NewPhpFileDialog" timestamp="1599113216088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="442" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599113216088" />
+    <state x="662" y="223" width="596" height="594" key="find.popup" timestamp="1599117802903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="223" width="596" height="594" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599117802903" />
   </component>
 </project>
